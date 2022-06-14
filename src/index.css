@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+* {
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* @page {
+  size: A3 portrait;
+}
+
+@media print {
+  @page {
+      size: A3 portrait;
+  }
+} */
+.apexcharts-menu{
+  min-width: 120px !important;
+}
